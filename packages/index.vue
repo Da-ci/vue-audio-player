@@ -292,7 +292,7 @@ export default {
 
     themeColor: {
       type: String,
-      default: '#ff2929',
+      default: '#242331;',
     },
 
     // 是否禁用进度条可拖拽功能
